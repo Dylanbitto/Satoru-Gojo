@@ -2,6 +2,12 @@
 
 Code adjusted and improved optimization to navigate user to the right section when clicked
 
-Link: 
+Link: https://dylanbitto.github.io/Satoru-Gojo/#search-engine-optimizationH
 
-![Horiseon]()
+![Horiseon](Horiseon.png)
+
+Github user name: Dylanbitto
+
+
+
+Github email: Dylanbitto5425@gmail.com
